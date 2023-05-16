@@ -1,0 +1,20 @@
+
+.ButtonBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 30px;
+}
+
+button{
+    background-color:lightgray;
+    border: none;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+}
+.counts{
+    background-color: lightgray;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+}
